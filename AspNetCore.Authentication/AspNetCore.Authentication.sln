@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Authentication", "AspNetCore.Authentication\AspNetCore.Authentication.csproj", "{4AC26BAD-185D-4C49-8B62-397AE0CBC343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC26BAD-185D-4C49-8B62-397AE0CBC343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC26BAD-185D-4C49-8B62-397AE0CBC343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC26BAD-185D-4C49-8B62-397AE0CBC343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC26BAD-185D-4C49-8B62-397AE0CBC343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {929B76DF-DB01-4865-8901-3DC77419074F}
+	EndGlobalSection
+EndGlobal
